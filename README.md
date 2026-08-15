@@ -1,5 +1,5 @@
 # Loan Approval System using Scikit-learn and Streamlit
-
+![Loan Approval System](Screenshot_5.png)
 ## Decision Logic
 The decision logic is governed by the machine learning pipeline trained in `train.py` and served via Streamlit:
 
